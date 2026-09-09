@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "smoothframe",
+  "version": "1.0.0",
+  "name": "SmoothFrame",
+  "entrypoints": {
+    "main": [
+      "com.smoothframe.SmoothFrameMod"
+    ]
+  }
+}
